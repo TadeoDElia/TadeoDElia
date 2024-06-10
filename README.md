@@ -5,5 +5,5 @@
 - ![Atletico Tucuman](https://upload.wikimedia.org/wikipedia/commons/b/b4/Escudo_del_Club_Atletico_Tucuman.svg)
 - me gusta el rock
 - Estudio en el colegio de la divina misericordia
-- Jugaba al futbol en inferiores
+- Jugaba al futbol en inferiores en el tribuno
   
